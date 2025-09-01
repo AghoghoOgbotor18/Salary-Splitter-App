@@ -13,7 +13,7 @@ This project allows users to:
 ---
 
 ## 🚀 Live Demo  
-Check out the project here: [Smart Budget Planner](https://aghoghoogbotor18.github.io/Salary-Splitter/)
+Check out the project here: [Smart Budget Planner](https://aghoghoogbotor18.github.io/Salary-Splitter-App/)
 
 ---
 
